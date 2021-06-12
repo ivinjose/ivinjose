@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm glad you stumbled upon this small corner of the github. I'm a frontend engineer with a keen interest on how JS and web work under the hood. I use this place to mainly create things to validate my findings. 
+
+Have a good one!
+
 <!--
 <table>
   <tr>
