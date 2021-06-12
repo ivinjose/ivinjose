@@ -1,12 +1,28 @@
 ### Hi there 👋
 
-[![Ivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivinjose&theme=dracula)](https://github.com/ivinjose/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivinjose&theme=dracula)](https://github.com/ivinjose/github-readme-stats)
-
-
-
 <!--
+<table>
+  <tr>
+    <td>[![Ivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivinjose)](https://github.com/ivinjose/github-readme-stats)</td>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivinjose)](https://github.com/ivinjose/github-readme-stats)</td>
+  </tr>
+</table>
+
+
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ivinjose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivinjose&repo=github-readme-stats" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ivinjose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivinjose&repo=convoychat" />
+</a>
+
+
+
+
+
+
+
 **ivinjose/ivinjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
