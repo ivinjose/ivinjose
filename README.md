@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 I'm glad you stumbled upon this small corner of the github. I'm a frontend engineer with a keen interest on how JS and other web tech work under the hood. I use this place to mainly create things to validate my findings.
 
