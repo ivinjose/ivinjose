@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Ivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivinjose&theme=dracula)](https://github.com/ivinjose/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivinjose&theme=dracula)](https://github.com/ivinjose/github-readme-stats)
+
+
+
 <!--
 **ivinjose/ivinjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
